@@ -1,4 +1,4 @@
-# NLP Projects 🌐🗣️
+# 🌐🗣️ NLP Projects 
 
 This repository consists in simple projects that I have done to improve my 
 NLP skills and consolidate this area fundamentals.
